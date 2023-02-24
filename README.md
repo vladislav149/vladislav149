@@ -42,8 +42,11 @@ Frontend Developer
   <a href="https://t.me/Vlad_Okenchits" target="_blank" rel="noreferrer">
     <img src="https://simpleicons.org/icons/telegram.svg"  width="32" height="32" alt="telegram"/>
   </a>
+  <a href="https://vk.com/vladik_sw" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org/icons/vk.svg"  width="32" height="32" alt="telegram"/>
+  </a>
   <a href="https://www.linkedin.com/in/vladislav-okenchits-6ba209249" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedIn" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"   alt="linkedIn" />
   </a>
   <a href="https://www.github.com/vladislav149" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="github"/></a>
