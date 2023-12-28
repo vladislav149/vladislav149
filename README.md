@@ -1,6 +1,6 @@
 # Hi 👋 My name is Vladislav Okenchits
 
-## I'm Frontend Developer
+## I'm a Frontend Developer
 
 ### My Hard Skills
 
@@ -85,6 +85,8 @@
 <a href="http://www.github.com/vladislav149">
   <img src="https://github-readme-stats.vercel.app/api?username=vladislav149&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vladislav149's GitHub stats" />
 </a>
+
+### My Codewars Stats
 
 [![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/NicolasOlenev/vladislav149/large?theme=light)
 
