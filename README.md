@@ -82,6 +82,6 @@
 
 ### My Codewars Stats
 
-[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/NicolasOlenev/vladislav149/large?theme=light)
+[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/vladislav149/badges/large?theme=light)
 
 - ✉️ You can contact me at [Vladislav149@mail.ru](mailto:vladislav149@mail.ru)
