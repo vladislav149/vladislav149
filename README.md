@@ -82,7 +82,8 @@
 
 ### My Codewars Stats
 
-[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/vladislav149/badges/large?theme=light)
+<!--[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/vladislav149/badges/large?theme=light)]-->
+![image](https://www.codewars.com/users/vladislav149/badges/large)
 <!--![Codewars](https://github.r2v.ch/codewars?user=vladislav149&stroke=%23BB432C)-->
 
 - ✉️ You can contact me at [Vladislav149@mail.ru](mailto:vladislav149@mail.ru)
