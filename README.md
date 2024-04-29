@@ -84,6 +84,6 @@
 
 <!--[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/vladislav149/badges/large?theme=light)]-->
 ![Codewars](https://www.codewars.com/users/Okenchits%20Vladislav/badges/large)
-<!--![Codewars](https://github.r2v.ch/codewars?user=vladislav149&stroke=%23BB432C)-->
+![Codewars](https://github.r2v.ch/codewars?user=Okenchits%20Vladislav&stroke=%23BB432C)
 
 - ✉️ You can contact me at [Vladislav149@mail.ru](mailto:vladislav149@mail.ru)
