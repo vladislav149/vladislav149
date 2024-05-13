@@ -2,11 +2,17 @@
 
 ## I'm a Frontend Developer
 
+### Experience is more than 3 years
+
 ### My Hard Skills
 
-<p>
+<div>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="54" height="54" alt="Vue" />
+  </a>
+
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer" title="Quasar">
+    <img src="quasar.svg" width="54" height="54" alt="quasar" />
   </a>
 
   <a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer" title="Vuex">
@@ -28,9 +34,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="54" height="54" alt="HTML5" />
   </a>
-</p>
+</div>
 
-<p>
+<div>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
     <img src="tailwind.svg" width="54" height="54" alt="Tailwind" />
   </a>
@@ -47,6 +53,10 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="54" height="54" alt="Bootstrap" />
   </a>
 
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer" title="Vitest">
+    <img src="vitest.svg" width="54" height="54" alt="vitest" />
+  </a>
+
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="54" height="54" alt="Sass" />
   </a>
@@ -54,36 +64,42 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="54" height="54" alt="CSS3" />
   </a>
-</p>
+</div>
 
 ### My Socials
 
-<p>
-  <a href="https://t.me/Vlad_Okenchits" target="_blank" rel="noreferrer">
-    <img src="telegram.svg"  width="48" height="48" alt="telegram"/>
+<div>
+  <a href="mailto:vladislav149@mail.ru" target="_blank" rel="noreferrer" title="email">
+    <img src="email.svg" width="48" height="48" alt="email"/>
   </a>
 
-  <a href="https://vk.com/vladik_sw" target="_blank" rel="noreferrer">
-    <img src="vk.svg"  width="48" height="48" alt="vk"/>
+  <a href="https://t.me/Vlad_Okenchits" target="_blank" rel="noreferrer" title="telegram">
+    <img src="telegram.svg" width="48" height="48" alt="telegram"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/vladislav-okenchits-6ba209249" target="_blank" rel="noreferrer">
+  <a href="https://vk.com/vladik_sw" target="_blank" rel="noreferrer" title="vk">
+    <img src="vk.svg" width="48" height="48" alt="vk"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/vladislav-okenchits-6ba209249" target="_blank" rel="noreferrer" title="linkedIn">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="linkedIn" />
   </a>
 
-  <a href="https://www.github.com/vladislav149" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="github"/>
+  <a href="https://vladikavkaz.hh.ru/resume/5cc34badff0bbf5f900039ed1f493046796368" target="_blank" rel="noreferrer" title="hh">
+    <img src="hh.svg" width="48" height="48" alt="hh" />
   </a>
 
-  <a href="http://www.instagram.com/vladik_avkaz" target="_blank" rel="noreferrer">
+  <a href="http://www.instagram.com/vladik_avkaz" target="_blank" rel="noreferrer" title="instagram">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48" height="48" alt="instagram" />
   </a>
-</p>
+</div>
 
 ### My Codewars Stats
 
 <!--[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/vladislav149/badges/large?theme=light)]-->
+
 ![Codewars](https://www.codewars.com/users/Okenchits%20Vladislav/badges/large)
+
 <!--![Codewars](https://github.r2v.ch/codewars?user=Okenchits%20Vladislav&stroke=%23BB432C)-->
 
-- ✉️ You can contact me at [Vladislav149@mail.ru](mailto:vladislav149@mail.ru)
+- ✉️ You can contact me at [vladislav149@mail.ru](mailto:vladislav149@mail.ru)
