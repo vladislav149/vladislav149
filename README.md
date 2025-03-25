@@ -98,7 +98,7 @@
 
 <!--[![Codewars](https://www.codewars.com/users/vladislav149/badges/large?theme=light)](https://www.codewars.com/users/vladislav149/badges/large?theme=light)]-->
 
-![Codewars](https://www.codewars.com/users/Okenchits%20Vladislav/badges/large)
+![Codewars](https://www.codewars.com/users/Okenchits%20Vladislav_Vld/badges/large)
 
 <!--![Codewars](https://github.r2v.ch/codewars?user=Okenchits%20Vladislav&stroke=%23BB432C)-->
 
